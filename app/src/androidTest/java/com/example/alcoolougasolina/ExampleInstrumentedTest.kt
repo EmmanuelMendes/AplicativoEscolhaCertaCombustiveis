@@ -1,5 +1,9 @@
 package com.example.alcoolougasolina
 
+import androidx.test.espresso.Espresso.onView
+import androidx.test.espresso.action.ViewActions.click
+import androidx.test.espresso.matcher.ViewMatchers.withId
+import androidx.test.espresso.matcher.ViewMatchers.withInputType
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
 
@@ -20,5 +24,9 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.alcoolougasolina", appContext.packageName)
+    }
+    @Test
+    fun testando_calculo_de_valores_de_combustiveis(){
+        onView(withId(R.id.preco_alcool)).perform(click())
     }
 }
