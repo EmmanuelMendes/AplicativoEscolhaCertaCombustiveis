@@ -7,8 +7,15 @@
 <div style="text-align:center">
   <img height="50em" width="100px" src="https://kkboxsqa.files.wordpress.com/2016/12/espresso-recorder.png"/img>
 </div>
+
+
                                                                                                            
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EmmanuelMendes)](https://github.com/EmmanuelMendes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/emmanuel-mendes/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mendesalves5)](https://twitter.com/mendesalves5)
+
+
+<div >
+   <img align="center" height="50em" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />  
+</div>
